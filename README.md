@@ -1,7 +1,7 @@
 <h1 align="center">
 
 <h3 align="center" >
-  Repositótio com aulas ministradas no mini curso Python na prática.
+  Repositótio com aulas ministradas no curso Python na prática: Automação de processos.
 </h3>
 
 <p align="center">
