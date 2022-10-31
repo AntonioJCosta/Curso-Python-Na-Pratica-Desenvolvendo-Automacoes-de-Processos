@@ -1,8 +1,16 @@
 <h1 align="center">
 
 <h3 align="center" >
-  Repositótio com aulas ministradas no curso Python na prática: Automação de processos.
+  Curso Python na prática: Desenvolvendo Automação de Processos.
 </h3>
+
+
+<h4>
+
+  - Aula 01 - Conceitos básicos da linguagem    
+    - Nesta aula é explorado os conceitos básicos de Python, como O que é Python, diferentes Tipos de dados e Estruturas condicionais.
+</h4>
+
 
 <p align="center">
 
